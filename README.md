@@ -7,7 +7,7 @@ Currently building practical experience with **Java, Python, machine learning, a
 ## Technical Focus
 
 **Languages:** Java, Python  
-**Machine Learning:** Scikit-learn, Pandas, NumPy  
+**Machine Learning & Data:** Scikit-learn, Pandas, NumPy  
 **Visualization:** Matplotlib, Seaborn  
 **Database:** MySQL  
 **Tools:** GitHub, Jupyter Notebook, Google Colab
