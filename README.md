@@ -24,7 +24,7 @@ Machine learning project for classifying deliveries as **Fast, Average, or Slow*
 
 [View Repository](https://github.com/ShadmanSadat/food-delivery-speed-classification)
 
-## Current Interests
+## Areas of Interest
 
 - Software Development
 - Machine Learning
@@ -37,8 +37,3 @@ Machine learning project for classifying deliveries as **Fast, Average, or Slow*
 Executive, Operations & Logistics — **BRAC University Communication & Language Club**
 
 Competitive esports In-Game Leader with experience in team strategy, communication, coordination, and decision-making under pressure.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/shadmansadatshopnil/)  
-Email: shadmansadat1971@gmail.com
