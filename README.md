@@ -1,8 +1,8 @@
 # Shadman Sadat Shopnil
 
-Computer Science & Engineering undergraduate at **BRAC University**, focused on software development, machine learning, and problem-solving.
+Computer Science & Engineering undergraduate at **BRAC University**, interested in software development, machine learning, and problem-solving.
 
-Currently building practical experience with **Java, Python, machine learning, and MySQL** through academic and personal projects.
+Currently building practical experience with **Java, Python, machine learning, and MySQL** through coursework and projects.
 
 ## Technical Focus
 
